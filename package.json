@@ -10,16 +10,12 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:extension.helloWorld"
+		"*"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": 
-		[			
-			{
-			"command": "extension.helloWorld",
-			"title": "Hello World"
-			},
+		[
 			{"command": "extension.braceOpen", "title": "{" },
 			{"command": "extension.braceClose", "title": "}" },			
 			{"command": "extension.bracketOpen", "title": "[" },
@@ -30,9 +26,11 @@
 		"menus": {
 			"touchBar": 
 			[
-				{ "command": "extension.helloWorld", "group": "editing" },
-				{ "command": "extension.braceOpen", "group": "editing" }
-			
+				{ "command": "extension.braceOpen", "group": "editing" },
+				{ "command": "extension.braceClose", "group": "editing" },
+				{ "command": "extension.bracketOpen", "group": "editing" },
+				{ "command": "extension.bracketClose", "group": "editing" },
+				{ "command": "extension.pipe", "group": "editing" }				
 			]
 		}
 	},
