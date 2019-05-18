@@ -30,7 +30,8 @@
 				{ "command": "extension.braceClose", "group": "editing" },
 				{ "command": "extension.bracketOpen", "group": "editing" },
 				{ "command": "extension.bracketClose", "group": "editing" },
-				{ "command": "extension.pipe", "group": "editing" }				
+				{ "command": "extension.pipe", "group": "editing" },
+				{ "command": "extension.tilde", "group": "editing" }				
 			]
 		}
 	},

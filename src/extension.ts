@@ -39,7 +39,7 @@ export function activate(context: vscode.ExtensionContext) {
 	registerInsertKey('extension.bracketOpen','[');
 	registerInsertKey('extension.bracketClose',']');
 	registerInsertKey('extension.pipe','|');
-	registerInsertKey('extension.tilde','] ');
+	registerInsertKey('extension.tilde','~');
 }
 
 // this method is called when your extension is deactivated
