@@ -1,6 +1,6 @@
 # dev-touch-bar README
 
-This is a visual studio code extension in order to add keys mostly used by developers but not easily accessible on some non US keyboards.
+This is a visual studio code extension in order to add keys mostly used by developers but not easily accessible on some non US Mac keyboards.
 
 ## Features
 
@@ -11,6 +11,8 @@ See screenshot
 ![](screenshot.png)
 
 ## Requirements
+
+This extension only works with a MacBook featuring touch bar.
 
 The app bar must be large enough to hold the 6 keys ie the global right control strip must not contain
 more than 3 commands.
