@@ -1,10 +1,14 @@
 # dev-touch-bar README
 
-This is a visual studio code extension in order to add keystrokes mostly used by developers.
+This is a visual studio code extension in order to add keys mostly used by developers but not easily accessible on some non US keyboards.
 
 ## Features
 
-Add bracquets, brace, pipe, and tilde keystrokes to touchbar.
+Add brackets, brace, pipe, and tilde keystrokes to touchbar.
+
+See screenshot 
+
+![](screenshot.png)
 
 ## Requirements
 
