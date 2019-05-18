@@ -17,7 +17,7 @@ more than 3 commands.
 
 ## Installation 
 
-Download source code from gitlab, unzip it and then copy the directory content to ~/.vscode/extensions
+Download [source code bundle](https://gitlab.com/nicolas800/dev-touch-bar/-/archive/master/dev-touch-bar-master.zip) from gitlab, unzip it and then copy the directory content to ~/.vscode/extensions
 
 ## Rebuild 
 
