@@ -15,15 +15,14 @@ See screenshot
 The app bar must be large enough to hold the 6 keys ie the global right control strip must not contain
 more than 3 commands.
 
+## Installation 
 
-## Build it 
+Download source code from gitlab, unzip it and then copy the directory content to ~/.vscode/extensions
+
+## Rebuild 
 
 If you need to change its behavior.
 
----
+```
 npm run compile
----
-
-## Installation 
-
-Copy this directory content to ~/.vscode/extensions
+```
